@@ -1,5 +1,7 @@
 .cache
+.github
 package.json
 package-lock.json
 public
+tsconfig.json
 .eslintrc.js
